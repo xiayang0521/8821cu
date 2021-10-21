@@ -83,7 +83,6 @@ A FAQ is available at the end of this document.
 * BrosTrend AC5L
 * EDUP EP-AC1651
 * EDUP EP-AC1635
-* D-Link - DWA-171C
 * TOTOLINK A650UA v3
 * Mercusys MU6H (multi-state)
 * Numerous additional products that are based on the supported chipsets
@@ -203,7 +202,7 @@ $ sudo reboot
 
 ### Driver Options
 
-A file called `8821cu.conf` will be installed in `/etc/modeprob.d` by default.
+A file called `8821cu.conf` will be installed in `/etc/modeprobe.d` by default.
 
 Location: `/etc/modprobe.d/8821cu.conf`
 
