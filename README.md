@@ -1,3 +1,13 @@
+-----
+
+A new version of this driver is now available:
+
+https://github.com/morrownr/8821cu-20210118
+
+Please use the new version. This repo will be cleaned out soon with only a short README.md remaining. The README.md will serve as a pointer to the new driver.
+
+-----
+
 ##### [Click for USB WiFi Adapter Information for Linux](https://github.com/morrownr/USB-WiFi)
 
 -----
