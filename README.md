@@ -14,9 +14,6 @@ The location of the repo for the currently available version of the driver:
 
 https://github.com/morrownr/8821cu-20210118
 
-Issues, Discussions and Pull Requests are not monitored in this repo. Please
-use those capabilities in the repo shown above.
-
 I hope you enjoy the driver and look forward to your comments and
 suggestions.
 
