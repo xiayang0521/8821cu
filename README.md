@@ -8,20 +8,22 @@
 
 ### Linux Driver for USB WiFi Adapters that are based on the RTL8811CU, RTL8821CU and RTL8731AU Chipsets
 
-The location of the currently available version of the driver:
+-----
+
+The location of the repo for the currently available version of the driver:
 
 https://github.com/morrownr/8821cu-20210118
 
+Issues, Discussions and Pull Requests are not monitored in this repo. Please
+use those capabilities in the repo shown above.
+
 I hope you enjoy the driver and look forward to your comments and
 suggestions.
-
-Issues, Discussions and Pull Requests are not monitored in this repo,
-please use those capabilities in the repo shown above.
 
 Regards,
 
 Nick
 
-P.S. The purpose of this repo is to serve as a permanent link to the
-most current Linux driver for USB WiFi adapters based on the
-rtl8811cu, rtl8821cu and rtl8731au chipsets.
+P.S. The purpose of this repo is to serve as a permanent link to the repo
+that contains the most current Linux driver for USB WiFi adapters based on
+the rtl8811cu, rtl8821cu and rtl8731au chipsets.
