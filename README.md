@@ -1,3 +1,9 @@
+https://www.zhihu.com/tardis/bd/art/391774662
+
+介绍里说这个唯一可用的rtl8821cu驱动源码
+
+USB 无线网卡 REALTEK RTL8821CU
+
 -----
 
 ##### [Click for USB WiFi Adapter Information for Linux](https://github.com/morrownr/USB-WiFi)
